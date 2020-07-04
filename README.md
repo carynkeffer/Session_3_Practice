@@ -6,3 +6,5 @@ It's so distracting being confronted with my own self awareness or lack thereof 
 
 Adding an image to a readme:
 ![alt text](https://hsnaples.org/wp-content/uploads/max_0025-copy-copy.jpg)
+
+I'm making changes
